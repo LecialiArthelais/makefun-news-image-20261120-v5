@@ -1,0 +1,465 @@
+{
+ "briefs": [
+  {
+   "lead": "Lviv:",
+   "n": 14,
+   "source": "BBC",
+   "text": "A strike on a railway station kills two"
+  },
+  {
+   "lead": "Estonia:",
+   "n": 15,
+   "source": "Reuters",
+   "text": "Estonia to shut Russia road border 1 Dec"
+  },
+  {
+   "lead": "Berlin:",
+   "n": 16,
+   "source": "Al Jazeera",
+   "text": "Pupils strike over military service"
+  },
+  {
+   "lead": "London:",
+   "n": 17,
+   "source": "Sky News",
+   "text": "General says UK runs cyber attacks abroad"
+  },
+  {
+   "lead": "Beijing:",
+   "n": 18,
+   "source": "Xinhua",
+   "text": "China holds its loan rates for an 18th month"
+  },
+  {
+   "lead": "Tokyo:",
+   "n": 19,
+   "source": "Nikkei",
+   "text": "SoftBank shares fall more than 14% in a day"
+  },
+  {
+   "lead": "Seoul:",
+   "n": 20,
+   "source": "Anadolu",
+   "text": "Kospi ends week 7.9% lower"
+  },
+  {
+   "lead": "Ganjam:",
+   "n": 21,
+   "source": "PTI",
+   "text": "209 mm of rain falls as Akvan crosses Odisha"
+  },
+  {
+   "lead": "Lebanon:",
+   "n": 22,
+   "source": "Anadolu",
+   "text": "Israeli strikes hit south and east"
+  },
+  {
+   "lead": "Yemen:",
+   "n": 23,
+   "source": "UKMTO",
+   "text": "Gunmen fire on a cargo ship off the coast"
+  },
+  {
+   "lead": "Abuja:",
+   "n": 24,
+   "source": "Channels TV",
+   "text": "Court bars new evidence against Tinubu"
+  },
+  {
+   "lead": "Kampala:",
+   "n": 25,
+   "source": "allAfrica",
+   "text": "Police enforce Ebola ban on rallies"
+  },
+  {
+   "lead": "Malawi:",
+   "n": 26,
+   "source": "Al Jazeera",
+   "text": "Fuel crisis brings night petrol queues"
+  },
+  {
+   "lead": "Africa:",
+   "n": 27,
+   "source": "allAfrica",
+   "text": "22 countries in debt distress"
+  },
+  {
+   "lead": "Las Vegas:",
+   "n": 28,
+   "source": "Autosport",
+   "text": "Russell fastest in wet GP practice"
+  },
+  {
+   "lead": "New York:",
+   "n": 29,
+   "source": "24/7 Wall St",
+   "text": "Nasdaq futures fall 1.6% pre-bell"
+  },
+  {
+   "lead": "Washington:",
+   "n": 30,
+   "source": "Al Jazeera",
+   "text": "Democrats query law firm’s free work"
+  },
+  {
+   "lead": "Wellington:",
+   "n": 31,
+   "source": "ICC",
+   "text": "Nicholls makes 175 in a stand of 216"
+  },
+  {
+   "lead": "Sydney:",
+   "n": 32,
+   "source": "Reuters",
+   "text": "Australian shares fall 1.6% in the sell-off"
+  },
+  {
+   "lead": "Antalya:",
+   "n": 33,
+   "source": "Anadolu",
+   "text": "Panama asks COP31 to cap world oil output"
+  },
+  {
+   "lead": "Antalya:",
+   "n": 34,
+   "source": "RTE",
+   "text": "EU official calls the climate draft unacceptable"
+  },
+  {
+   "lead": "Turin:",
+   "n": 35,
+   "source": "Anadolu",
+   "text": "ATP backs a plan to lift player pay past $350m"
+  }
+ ],
+ "date_check": "Left out as Thursday 19 November's news: the World Court's Myanmar ruling, the Shenzhen three-leader declaration, Tonga's drought emergency and the migrant boat lost off Senegal. Not yet happened, so not shown: BepiColombo's Mercury orbit entry and any final COP31 text.",
+ "eyebrow_left": "THE WORLD IN ONE DAY",
+ "eyebrow_right": "35 STORIES · 7 REGIONS · EVERY ONE DATED FRIDAY 20 NOVEMBER 2026",
+ "footer_left": "Every story here happened, or was first reported, on Friday 20 November 2026. Officials’ counts are attributed.",
+ "footer_right": "Sources named beside each story · Original drawings",
+ "heroes": [
+  {
+   "art": "kyiv",
+   "badge": "OFFICIAL",
+   "field": "WAR",
+   "headline": "Russian missiles hit three Kyiv bridges",
+   "label": "KYIV",
+   "n": 1,
+   "pin": [
+    30.5,
+    50.4
+   ],
+   "place": "KYIV, UKRAINE",
+   "region": "Europe",
+   "source": "Kyiv Independent, BBC",
+   "summary": "About 110 missiles and 400 drones killed at least nine people across Ukraine and cut power and water in Kyiv.",
+   "tag": "3 bridges hit",
+   "tag_src": "Officials’ count"
+  },
+  {
+   "art": "cyclone",
+   "badge": "OFFICIAL",
+   "field": "CYCLONE",
+   "headline": "Cyclone Akvan comes ashore in eastern India",
+   "label": "CYCLONE AKVAN",
+   "n": 2,
+   "pin": [
+    84.9,
+    19.3
+   ],
+   "place": "ODISHA, INDIA",
+   "region": "Asia",
+   "source": "IMD, Deccan Herald",
+   "summary": "The storm crossed near Gopalpur from about 8 am, after 300,000+ people moved to shelters. No deaths reported.",
+   "tag": "Landfall · 8 am",
+   "tag_src": "Weather office"
+  },
+  {
+   "art": "markets",
+   "badge": "CONFIRMED",
+   "field": "MARKETS",
+   "headline": "AI sell-off sinks Asia’s stock markets",
+   "label": "AI SELL-OFF",
+   "n": 3,
+   "pin": [
+    121.5,
+    25.0
+   ],
+   "place": "TAIPEI · SEOUL · TOKYO",
+   "region": "Asia",
+   "source": "Al Jazeera, Anadolu",
+   "summary": "Taiwan's index fell 6.2% to end its worst week since 1991; Seoul lost 5.2% and Tokyo 5.1%.",
+   "tag": "Asia, Friday’s close",
+   "tag_src": "Closing prices"
+  }
+ ],
+ "masthead": "Friday 20 November 2026",
+ "medium": [
+  {
+   "art": "ukeu",
+   "badge": "CONFIRMED",
+   "field": "DIPLOMACY",
+   "headline": "UK and EU seal a “reset” deal",
+   "label": "UK–EU DEAL",
+   "n": 4,
+   "pin": [
+    4.35,
+    50.85
+   ],
+   "place": "BRUSSELS",
+   "region": "Europe",
+   "source": "Reuters",
+   "summary": "Food trade, youth visas, carbon link.",
+   "tag": "Agreed · Reuters"
+  },
+  {
+   "art": "cop31",
+   "badge": "CONFIRMED",
+   "field": "CLIMATE",
+   "headline": "COP31 reaches its last day with no deal",
+   "label": "COP31: NO DEAL",
+   "n": 5,
+   "pin": [
+    30.7,
+    36.9
+   ],
+   "place": "ANTALYA",
+   "region": "Global",
+   "source": "UN News",
+   "summary": "The draft text leaves out fossil fuels.",
+   "tag": "Ongoing · UN News"
+  },
+  {
+   "art": "poland",
+   "badge": "OFFICIAL",
+   "field": "SECURITY",
+   "headline": "Russian cruise missile lands in Poland",
+   "label": "POLAND: MISSILE",
+   "n": 6,
+   "pin": [
+    22.9,
+    50.6
+   ],
+   "place": "EASTERN POLAND",
+   "region": "Europe",
+   "source": "Reuters",
+   "summary": "A Kh-101 fell in a field; two airports paused.",
+   "tag": "Minister says · Reuters"
+  },
+  {
+   "art": "iraq",
+   "badge": "REPORTED",
+   "field": "SECURITY",
+   "headline": "Iraqi army enters a militia stronghold",
+   "label": "IRAQ: ARMY IN",
+   "n": 7,
+   "pin": [
+    44.2,
+    32.8
+   ],
+   "place": "CENTRAL IRAQ",
+   "region": "Middle East",
+   "source": "Reuters",
+   "summary": "Troops deploy to Jurf al-Sakhar.",
+   "tag": "Witnessed · Reuters"
+  },
+  {
+   "art": "italy",
+   "badge": "REPORTED",
+   "field": "LABOUR",
+   "headline": "General strike over Italy’s budget",
+   "label": "ITALY: STRIKE",
+   "n": 8,
+   "pin": [
+    12.5,
+    41.9
+   ],
+   "place": "ITALY",
+   "region": "Europe",
+   "source": "Reuters",
+   "summary": "Workers and students march.",
+   "tag": "Reported · Reuters"
+  },
+  {
+   "art": "japan",
+   "badge": "OFFICIAL",
+   "field": "ECONOMY",
+   "headline": "Japan’s inflation picks up to 2.3%",
+   "label": "JAPAN: +2.3%",
+   "n": 9,
+   "pin": [
+    139.7,
+    35.7
+   ],
+   "place": "TOKYO",
+   "region": "Asia",
+   "source": "Reuters",
+   "summary": "A December rate rise stays in view.",
+   "tag": "Official data · Reuters"
+  },
+  {
+   "art": "seoul",
+   "badge": "CONFIRMED",
+   "field": "POLITICS",
+   "headline": "Korea’s ruling party to impeach top judge",
+   "label": "SEOUL: IMPEACH",
+   "n": 10,
+   "pin": [
+    127.0,
+    37.5
+   ],
+   "place": "SEOUL",
+   "region": "Asia",
+   "source": "Korea Herald",
+   "summary": "It follows an overturned conviction.",
+   "tag": "Party decision · Korea Herald"
+  },
+  {
+   "art": "kenya",
+   "badge": "REPORTED",
+   "field": "ENERGY",
+   "headline": "Kenya starts drilling its first oil well",
+   "label": "KENYA: OIL",
+   "n": 11,
+   "pin": [
+    36.0,
+    3.5
+   ],
+   "place": "TURKANA, KENYA",
+   "region": "Africa",
+   "source": "allAfrica",
+   "summary": "First crude is due on 1 December.",
+   "tag": "Ceremony held · allAfrica"
+  },
+  {
+   "art": "bukele",
+   "badge": "REPORTED",
+   "field": "POLITICS",
+   "headline": "Bukele files to run for a third term",
+   "label": "BUKELE: 3RD BID",
+   "n": 12,
+   "pin": [
+    -89.2,
+    13.7
+   ],
+   "place": "SAN SALVADOR",
+   "region": "Americas",
+   "source": "AP",
+   "summary": "The vote is on 28 February 2027.",
+   "tag": "Filed · AP"
+  },
+  {
+   "art": "phillips",
+   "badge": "CONFIRMED",
+   "field": "CRICKET",
+   "headline": "Phillips hits 118 against India",
+   "label": "PHILLIPS: 118",
+   "n": 13,
+   "pin": [
+    174.8,
+    -41.3
+   ],
+   "place": "WELLINGTON",
+   "region": "Oceania",
+   "source": "ICC",
+   "summary": "Hundreds in India in all three formats.",
+   "tag": "Scorecard · ICC"
+  }
+ ],
+ "numbers": [
+  {
+   "label": "bridges struck in Kyiv",
+   "value": "3"
+  },
+  {
+   "label": "evacuated before Akvan",
+   "value": "300,000+"
+  },
+  {
+   "label": "Taiex, Friday's close",
+   "value": "−6.2%"
+  },
+  {
+   "label": "youth visas a year",
+   "value": "100,000"
+  },
+  {
+   "label": "Japan inflation, October",
+   "value": "2.3%"
+  },
+  {
+   "label": "runs in Phillips' 118",
+   "value": "118"
+  }
+ ],
+ "page_date": "Friday 20 November 2026",
+ "regions": [
+  {
+   "color": "#2E5A88",
+   "count": 8,
+   "name": "Europe"
+  },
+  {
+   "color": "#B01E24",
+   "count": 8,
+   "name": "Asia"
+  },
+  {
+   "color": "#D97A1F",
+   "count": 3,
+   "name": "Middle East"
+  },
+  {
+   "color": "#3E7A4E",
+   "count": 5,
+   "name": "Africa"
+  },
+  {
+   "color": "#6A4C93",
+   "count": 4,
+   "name": "Americas"
+  },
+  {
+   "color": "#1F8A8A",
+   "count": 3,
+   "name": "Oceania"
+  },
+  {
+   "color": "#6B6B6B",
+   "count": 4,
+   "name": "Global"
+  }
+ ],
+ "subhead": "Russian missiles hit Kyiv’s bridges · Cyclone Akvan strikes India · An AI sell-off sinks Asia’s markets · UK and EU seal a deal",
+ "timeline": [
+  {
+   "label": "Kyiv bridges hit",
+   "time": "00:00"
+  },
+  {
+   "label": "Akvan landfall",
+   "time": "02:00"
+  },
+  {
+   "label": "Taiex −6.2%",
+   "time": "05:30"
+  },
+  {
+   "label": "Kh-101 in Poland",
+   "time": "05:36"
+  },
+  {
+   "label": "COP31 past close",
+   "time": "15:00"
+  },
+  {
+   "label": "Nvidia probe",
+   "time": "19:00"
+  },
+  {
+   "label": "S&P 500 −2.0%",
+   "time": "21:00"
+  }
+ ]
+}
